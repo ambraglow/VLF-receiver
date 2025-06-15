@@ -6303,7 +6303,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:CP_Elec_4x5.4"
+		(property "Footprint" "Capacitor_SMD:CP_Elec_6.3x4.5"
 			(at 198.12 135.89 0)
 			(effects
 				(font
@@ -6438,7 +6438,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 58.42 55.88 0)
 			(effects
 				(font
@@ -6523,7 +6523,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:CP_Elec_4x5.4"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
 			(at 227.33 121.92 0)
 			(effects
 				(font
@@ -6821,7 +6821,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
 			(at 87.63 38.1 0)
 			(effects
 				(font
@@ -7160,7 +7160,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 124.46 102.87 0)
 			(effects
 				(font
@@ -7704,7 +7704,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 201.93 104.14 0)
 			(effects
 				(font
@@ -8040,7 +8040,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:CP_Elec_4x5.4"
+		(property "Footprint" "Capacitor_SMD:CP_Elec_6.3x4.5"
 			(at 149.86 119.6848 0)
 			(effects
 				(font
@@ -8111,7 +8111,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "project:MountingHole_2.1mm"
+		(property "Footprint" "MountingHole:MountingHole_2.1mm"
 			(at 195.58 30.48 0)
 			(effects
 				(font
@@ -8531,7 +8531,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
 			(at 228.6 121.92 0)
 			(effects
 				(font
@@ -9296,7 +9296,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
 			(at 152.4 95.25 0)
 			(effects
 				(font
@@ -9779,7 +9779,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:CP_Elec_4x5.4"
+		(property "Footprint" "Capacitor_SMD:CP_Elec_6.3x4.5"
 			(at 151.4348 101.6 0)
 			(effects
 				(font
@@ -9985,7 +9985,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "project:MountingHole_2.1mm"
+		(property "Footprint" "MountingHole:MountingHole_2.1mm"
 			(at 185.42 30.48 0)
 			(effects
 				(font
@@ -10396,7 +10396,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
 			(at 115.57 55.88 0)
 			(effects
 				(font
@@ -10464,7 +10464,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "project:MountingHole_2.1mm"
+		(property "Footprint" "MountingHole:MountingHole_2.1mm"
 			(at 195.58 40.64 0)
 			(effects
 				(font
@@ -11286,7 +11286,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 71.12 38.1 0)
 			(effects
 				(font
