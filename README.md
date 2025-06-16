@@ -4,9 +4,11 @@ It features 2.1mm mounting holes, a line-out audio transformer (so it can be dir
 
 ![top](https://ambraglow.github.io/VLF-receiver/top.png)
 
-## June update, first batch of boards arrived, sponsored by PCBWay!  
- 
-![top](https://github.com/ambraglow/VLF-receiver/blob/main/board-images/DSC_1126.jpg)
+## June update
+Today on June 16th i received a batch of boards, thanks to PCBWay for sponsoring this project!
+Here's some pictures of the boards, they really look stunning in yellow silkscreen (it was a suggestion )
+![img1](https://github.com/ambraglow/VLF-receiver/blob/main/board-images/DSC_1126.jpg)
+![img2](https://github.com/ambraglow/VLF-receiver/blob/main/board-images/DSC_1121.jpg)  
 
 ## Credits & Resources
 [Original schematic design](http://www.vlf.it/romero2/explorer-e202.html) by Renato | [rendered PCB images, thanks to Lina's plugin](https://github.com/linalinn/kicad-render)
