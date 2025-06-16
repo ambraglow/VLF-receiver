@@ -5,7 +5,7 @@ It features 2.1mm mounting holes, a line-out audio transformer (so it can be dir
 ![top](https://ambraglow.github.io/VLF-receiver/top.png)
 
 ## June update
-Today on June 16th i received a batch of boards, thanks to PCBWay for sponsoring this project!
+Today on June 16th i received a batch of boards, thanks to PCBWay for sponsoring this project!  
 Here's some pictures of the boards, they really look stunning in yellow silkscreen (it was a [suggestion](https://github.com/luxploit) by my gf :3).  
   
 ![img1](https://github.com/ambraglow/VLF-receiver/blob/main/board-images/DSC_1126.jpg)
