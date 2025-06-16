@@ -6,4 +6,4 @@ It features 2.1mm mounting holes, an line-out audio transformer (so it can be di
 ![bottom](https://ambraglow.github.io/VLF-receiver/bottom.png)
 
 ## Resources
-[source design](http://www.vlf.it/romero2/explorer-e202.html) by Renato
+[Original schematic design](http://www.vlf.it/romero2/explorer-e202.html) by Renato
