@@ -5,12 +5,14 @@ It features 2.1mm mounting holes, a line-out audio transformer (so it can be dir
 ![top](https://ambraglow.github.io/VLF-receiver/top.png)
 
 ## June update
-Today on June 16th i received a batch of boards, thanks to [PCBWay](https://www.pcbway.com/) for sponsoring this project!  
-Here's some pictures of the boards, they really look stunning in yellow silkscreen.  
-  
+Today on June 16th i received a batch of boards, thanks to [PCBWay](https://www.pcbway.com/) for sponsoring this project!
+The ordering process is pretty straightforward, i used their Kicad plugin for exporting production files and uploading them to their system.
+Compared to their conpetitors, different soldermask colors don't add too much cost to production and look stunning, shipping times aren't too bad either, it took less than a week for the PCBs to arrive to Italy.
+Here's some pictures of the boards, they really look stunning in yellow soldermask.  
+
 ![img1](https://github.com/ambraglow/VLF-receiver/blob/main/board-images/DSC_1126.jpg)
 ![img2](https://github.com/ambraglow/VLF-receiver/blob/main/board-images/DSC_1121.jpg)  
-  
+
 Functionally they should work, but that will be a problem for future me :D  
 
 ## Credits & Resources
